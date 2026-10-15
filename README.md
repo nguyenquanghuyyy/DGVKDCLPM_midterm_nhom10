@@ -111,20 +111,7 @@ Tỷ lệ đạt: 100%.
 
 ---
 
-## Cấu trúc Repository
 
-```text
-kiemdinhgiuaki
-│
-├── BaoCao/
-├── SRS/
-├── TestPlan/
-├── TestCase/
-├── SeleniumIDE/
-├── Images/
-├── SourceCode/
-└── README.md
-```
 
 ---
 
